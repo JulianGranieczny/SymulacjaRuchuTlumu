@@ -1,0 +1,50 @@
+# Unity - foldery generowane automatycznie
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# pliki projektu IDE generowane przez Unity
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.vs/
+.vscode/
+.idea/
+.gradle/
+
+# pliki tymczasowe i kopie zapasowe zapisu projektu .hospps
+*.bak
+*.bak.meta
+*.tmp.meta
+
+# wyniki budowania
+*.apk
+*.aab
+*.unitypackage
+*.app
+crashlytics-build.properties
+
+# paczki zip z kodem
+*.zip
+
+# system
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,16 @@
+newmtl teren
+Kd 0.45 0.60 0.40
+newmtl podloga
+Kd 0.75 0.70 0.60
+newmtl sciana
+Kd 0.85 0.85 0.82
+newmtl lozko
+Kd 0.90 0.90 1.00
+newmtl dach
+Kd 0.40 0.40 0.45
+newmtl schody
+Kd 0.62 0.60 0.58
+newmtl balustrada
+Kd 0.35 0.36 0.40
+newmtl poduszka
+Kd 0.97 0.97 0.97
